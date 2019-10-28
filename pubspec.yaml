@@ -1,8 +1,8 @@
 name: log
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+author: wqycsu
+homepage: https://github.com/wqycsu
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
